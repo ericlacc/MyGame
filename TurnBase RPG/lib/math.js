@@ -19,3 +19,11 @@ math.chain(3)
     .add(4)
     .multiply(2)
     .done() // 14
+	
+	
+	
+math.function{
+	let add
+	let BigInt
+	return add+BigInt
+}
